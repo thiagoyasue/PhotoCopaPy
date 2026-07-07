@@ -1,2 +1,2 @@
 # PhotoCopaPy
-Templates de Neopets
+Gerador de Templates de Neopets
